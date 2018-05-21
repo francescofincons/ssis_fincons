@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FGBAL051813_MSSQLSERVER14.FinconsRE.sa2"
+  DTS:DTSID="{AB3B6A71-DB38-46A5-B40E-763D1902C528}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=FGBAL051813\MSSQLSERVER14;User ID=sa2;Initial Catalog=FinconsRE;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd0NvARvjAkee5GSUhgNZTwAAAAACAAAAAAADZgAAwAAAABAAAAB1AxuS2BrCYjtii47JeUchAAAAAASAAACgAAAAEAAAAAOzeX40Hwz675rEHQj5lIF4AAAABlVCYKJsXkbqRQviTfPOE6bRVu+q0pkRFd0lL5mBmj1ohTfqH4I3BfGJhCLE7F8amrksc/786ME8s6n3x3vv4KD8B4p1styvlHGUlVp9epdJagGZ/nhss6VIs8YuVI9+R5c8LZ+yoEM6c4J4Bi6ZH1uq8X4YD+63FAAAAJu3L+kgbC+vwNYnfMrT27P2S+a8</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
