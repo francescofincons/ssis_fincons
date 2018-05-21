@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="FGBAL041813"
   DTS:CreatorName="FINCONSGROUP\francesco.greco"
-  DTS:DTSID="{40671711-E721-4B0E-8C00-6965EF685978}"
+  DTS:DTSID="{2F71C685-C0A7-4C5D-B971-133C4C26A466}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="13.0.2165.0"
   DTS:LocaleID="1040"
-  DTS:ObjectName="Staging_TotalLifePremium"
+  DTS:ObjectName="ST_TotalLifePremium"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{CEF82A55-E73F-4147-AB72-26D4EBBB9996}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{32BAF426-FE73-4C72-A39B-F72F4DAF4C6F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
