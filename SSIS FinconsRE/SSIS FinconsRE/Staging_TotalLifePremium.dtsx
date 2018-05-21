@@ -7,12 +7,12 @@
   DTS:CreatorName="FINCONSGROUP\francesco.greco"
   DTS:DTSID="{40671711-E721-4B0E-8C00-6965EF685978}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="14.0.3025.39"
+  DTS:LastModifiedProductVersion="13.0.2165.0"
   DTS:LocaleID="1040"
   DTS:ObjectName="Staging_TotalLifePremium"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{CCFA043A-3CF3-446D-ACFB-7B25BB8AA47B}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{CEF82A55-E73F-4147-AB72-26D4EBBB9996}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -113,7 +113,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="LOG_StartTime">
       <DTS:VariableValue
-        DTS:DataType="3">0</DTS:VariableValue>
+        DTS:DataType="7">5/21/2018 2:16:13 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -149,7 +149,7 @@
           <DTS:Variables />
           <DTS:ObjectData>
             <ExpressionTask
-              Expression="" />
+              Expression="@[User::LOG_StartTime] =  GETDATE()" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -168,14 +168,14 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="142.666666666667,41.3333333333334"
+          Size="142.4,41.6"
           Id="Package\Set EventLog Start\Set StartTime"
           TopLeft="21.1428578435158,22.7294133176441" />
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="199.333333333334,165.333333333334"
-          Size="199.333333333334,208"
+          PanelSize="199.2,165.6"
+          Size="199.2,208"
           Id="Package\Set EventLog Start"
           TopLeft="63.1857114636168,53.2235301582046" />
       </GraphLayout>
