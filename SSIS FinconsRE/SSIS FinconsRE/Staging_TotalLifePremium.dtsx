@@ -5,20 +5,20 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="FGBAL041813"
   DTS:CreatorName="FINCONSGROUP\francesco.greco"
-  DTS:DTSID="{584DA46B-44E7-40DE-8595-F4B7075F4A0A}"
+  DTS:DTSID="{C867EF47-9B4F-43E6-BDA8-4E6991C9EDF8}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="13.0.2165.0"
   DTS:LocaleID="1040"
   DTS:ObjectName="Staging_TotalLifePremium"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{1162C2EE-2168-4CA5-AB12-34FA40A25DE9}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{8F1AB818-1881-4BE2-A9B7-8697137CAAD0}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{FFB187C5-58EE-45CB-A3F9-E0C3BD59313B}"
+      DTS:DTSID="{AE049B14-5C10-4C97-8049-A27833B382A7}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Description">
@@ -27,7 +27,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{F4B8391A-FAC7-4B81-A8D2-E4AE05209E59}"
+      DTS:DTSID="{6B12F9FA-DE61-45DC-8326-822568D8C84A}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_EndTime">
@@ -36,7 +36,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{9EAD7CB7-3D6A-43AD-BAA9-47FB5DE61A3B}"
+      DTS:DTSID="{BCB9034B-51E3-44D5-B2A2-5D7A09FB4254}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Entity">
@@ -45,7 +45,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{71DC83D3-1A97-4EDD-A9B1-CA37222B1D1C}"
+      DTS:DTSID="{2B6712C9-966E-419E-9872-E171B48199BE}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Event">
@@ -54,7 +54,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{1AAD8B21-9C36-440F-B063-BCC538FDBCE4}"
+      DTS:DTSID="{683F3AB4-455B-4F34-A6A5-4B8C5DAE720D}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Identity">
@@ -63,7 +63,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{C3186A6B-4B90-43CB-B320-7D9743679F72}"
+      DTS:DTSID="{CA535E27-B454-4D8A-AD8B-D2E0F9C7873B}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Message">
@@ -72,7 +72,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{442A1E28-4490-49D5-8C36-352335F78D19}"
+      DTS:DTSID="{947118CB-421D-4464-844E-C237D4465224}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_PackageName">
@@ -81,7 +81,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{1F07BBA1-7CD3-401D-AE6B-A7D31D86BACC}"
+      DTS:DTSID="{644EEC22-5647-4671-A78A-EB19B38AF075}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_RowsInserted">
@@ -90,7 +90,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{40568A20-B0CE-4E38-BAFF-3AB14BEE30A8}"
+      DTS:DTSID="{CF09DECA-407D-4140-A3E7-EE1C39624284}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_RowsRemoved">
@@ -99,7 +99,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{839D34CB-8B66-461E-B882-962955DEB0BE}"
+      DTS:DTSID="{A2FC8BFC-209E-4B37-8689-13A342A53F61}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_RowsUpdated">
@@ -108,7 +108,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{333CF6B8-5670-40AD-8222-16905588EF9F}"
+      DTS:DTSID="{9A976FC9-8C1E-4B87-83B5-A0FE9C6F67C4}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_StartTime">
@@ -117,7 +117,7 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
-      DTS:DTSID="{C804CEA3-529A-4C38-8C0D-78B3CFF0262A}"
+      DTS:DTSID="{53C5BEFA-3299-4CFB-BCF3-3F1E147C6E82}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="LOG_Status">
@@ -130,7 +130,7 @@
       DTS:refId="Package\Set EventLog Start"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:DTSID="{9336E673-FABC-46BB-ABFE-38C0EA2FB9C5}"
+      DTS:DTSID="{2492EE81-BFAE-4346-8731-FC5CDA1C5904}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
       DTS:ObjectName="Set EventLog Start">
@@ -140,7 +140,7 @@
           DTS:refId="Package\Set EventLog Start\Set StartTime"
           DTS:CreationName="Microsoft.ExpressionTask"
           DTS:Description="Expression Task"
-          DTS:DTSID="{6CD472B5-B854-4B22-8488-2137385A95DC}"
+          DTS:DTSID="{934F01C1-179A-44E0-AB3F-8CF204A2582A}"
           DTS:ExecutableType="Microsoft.ExpressionTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Set StartTime"
